@@ -12,4 +12,3 @@ items = [
 num_baseball_caps = sum(1 for item in items if item['type'] == 'baseball cap')
 
 print(f"Number of baseball caps: {num_baseball_caps}")
-# Count the number of baseball caps
